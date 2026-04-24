@@ -1,7 +1,7 @@
 {
   "name": "dabwala-news-clone",
   "version": "1.0.0",
-  "description": "Local clone of Dabwala News with global music engine",
+  "description": "Local clone of Mktxo.new with global music engine",
   "main": "server.mjs",
   "type": "module",
   "scripts": {
